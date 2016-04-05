@@ -2,6 +2,7 @@
   "name": "Cycle",
   "version": "0.0.1",
   "homepage": "https://github.com/JesselJohn/JSON-js",
+  "ignore": [],
   "authors": [
     "Douglas Crockford"
   ],
